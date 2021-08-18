@@ -1,0 +1,14 @@
+# PI: Ruby van Rooyen
+# Contact details: ruby@sarao.ac.za
+#
+# No specifying instrument or correlator mode to allow use with any observation mode
+durations:
+  obs_duration: 28800.0
+  start_time: 2021-08-27 18:00:00
+observation_loop:
+  - LST: 16:30-3:00
+    target_list:
+      - name=J0137+3309 | 3C48, radec=1:37:41.30 33:09:35.1, tags=polcal, duration=296.0, cadence=3600.0, model=(50.0 50000.0 0.524 1.738 -0.6396 0.0498)
+      - name=J1939-6342 | 1934-638, radec=19:39:25.03 -63:42:45.6, tags=bpcal fluxcal, duration=296.0, cadence=3600.0, model=(408.0 8640.0 -30.77 26.49 -7.098 0.6053)
+      - name=J2206-1835 | 2203-188, radec=22:06:10.42 -18:35:38.7, tags=gaincal bpcal, duration=128.0, model=(145.0 99000.0 2.185 -0.7118 0.1563 -0.0215)
+      - name=Jupiter, special=special , tags=target, duration=904.0
