@@ -1,4 +1,4 @@
-ToO and filler observations of comet 67P/Churyumov-Gerasimenko
+ToO and filler observations of comet 67P/Churyumov-Gerasimenko    
 Project ID assigned: `SSV-20210701-SA-01`
 
 Comet orbits are defined in terms of XEphem heliocentric orbital parameters.    
