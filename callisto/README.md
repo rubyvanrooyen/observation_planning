@@ -160,5 +160,14 @@ observation_loop:
 
 ### Simulate observation to get timings
 
+## Observation docs
+Keeping track of dates and planning, as well as date associated calibrators for Jupiter are tabulated
+in the following Google docs:
+
+* Observation dates based on separation angle between Jupiter and Callisto   
+[Extended schedule date options](https://docs.google.com/document/d/1RcEImUkAxZp3LZb6VOoaF7i8aIXn8pEZuDFH5ASMM3E/edit?usp=sharing)
+
+* Observation planning for setting up observation and SB:
+[Callisto/Jupiter observation schedule](https://docs.google.com/document/d/1rVZJRmXiMNiCw1gyhcQHwqNIhYchmIyLzeufWuY541c/edit?usp=sharing)
 
 -fin-
